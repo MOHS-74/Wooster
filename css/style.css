@@ -1,3 +1,6 @@
+/*! https://mohs-74.github.io/Wooster/ */
+
+
 /* 
 .montserrat-<uniquifier> {
   font-family: "Montserrat", serif;
@@ -120,7 +123,7 @@ nav{
 
     backdrop-filter: blur(3px);
 
-    height: 75vh;
+    min-height: 80vh;
     width: 400px;
 
     position: absolute;
